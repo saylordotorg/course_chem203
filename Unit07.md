@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM203: Bioinorganic Chemistry"
+course_description: "An exploration of the biological importance of inorganic complexes. Topics include biochemistry and transition metal chemistry, characterization methods, metal ion transport and cellular storage, biological electron transfer, the nitrogen cycle, oxygen transport and transfer, oxygen processing, and enzymes and proteins."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Enzymes And Proteins Used For Oxygen Processing** <span
 id="7"></span> 
 *Once oxygen is transported and transferred to the desired site, it

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM203: Bioinorganic Chemistry"
+course_description: "An exploration of the biological importance of inorganic complexes. Topics include biochemistry and transition metal chemistry, characterization methods, metal ion transport and cellular storage, biological electron transfer, the nitrogen cycle, oxygen transport and transfer, oxygen processing, and enzymes and proteins."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CHEM203: Bioinorganic Chemistry"
 -----------------------------------------------------
 

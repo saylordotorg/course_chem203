@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM203: Bioinorganic Chemistry"
+course_description: "An exploration of the biological importance of inorganic complexes. Topics include biochemistry and transition metal chemistry, characterization methods, metal ion transport and cellular storage, biological electron transfer, the nitrogen cycle, oxygen transport and transfer, oxygen processing, and enzymes and proteins."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Metal Ion Transport and Storage** <span id="3"></span> 
 *Transition-metal ions such as iron, copper, and zinc are essential
 components of key biological molecules that exist within all living

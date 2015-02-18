@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM203: Bioinorganic Chemistry"
+course_description: "An exploration of the biological importance of inorganic complexes. Topics include biochemistry and transition metal chemistry, characterization methods, metal ion transport and cellular storage, biological electron transfer, the nitrogen cycle, oxygen transport and transfer, oxygen processing, and enzymes and proteins."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Oxygen Transport And Transfer** <span id="6"></span> 
 *Oxygen is essential to many life forms, including human life.  Many
 human-body functions at the cellular level require oxygen; accordingly,
