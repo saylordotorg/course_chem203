@@ -8,6 +8,14 @@ previous: ../../../
 Course Syllabus for "CHEM203: Bioinorganic Chemistry"
 -----------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_chem203) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course will teach you the important role that metal ions play in
 key biological processes.  You will learn that many biological functions
 are performed at the cellular level by metal ions that are incorporated
@@ -172,3 +180,4 @@ Exam.
 - [Unit 6](https://legacy.saylor.org/chem203/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem203/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem203/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM203/CHEM203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM203/CHEM203-FinalExam-Answers.html)
