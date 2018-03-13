@@ -173,4 +173,4 @@ Exam.
 - [Unit 6](https://legacy.saylor.org/chem203/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem203/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem203/Unit08/)
-- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM203/CHEM203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM203/CHEM203-FinalExam-Answers.html)
+- <del>Final Exam</del> - no final exam is available for this course.
