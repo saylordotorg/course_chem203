@@ -89,7 +89,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Have successfully completed all Pre-Requisitesfor Saylor's
 Chemistry discipline (CHEM001, CHEM002, CHEM003, and CHEM004), or their
