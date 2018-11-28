@@ -68,7 +68,7 @@ to:
 
 -   **Reading: Wikipedia’s “Superoxide Dismutase”**
     Link: Wikipedia’s [“Superoxide
-    Dismutase”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CHEM203_Wikipedia_Superoxide-Dismutase_12.20.12.pdf)
+    Dismutase”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/CHEM203_Wikipedia_Superoxide-Dismutase_12.20.12.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access and read the
@@ -97,7 +97,7 @@ to:
 **7.2 Catalase** <span id="7.2"></span> 
 -   **Reading: Wikipedia’s “Catalase”**
     Link: Wikipedia’s
-    [“Catalase”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CHEM203_Wikipedia_Catalase_12.20.12.pdf)
+    [“Catalase”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/CHEM203_Wikipedia_Catalase_12.20.12.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access and read the
@@ -125,7 +125,7 @@ to:
 **7.3 Peroxidase** <span id="7.3"></span> 
 -   **Reading: Wikipedia’s “Peroxidase”**
     Link: Wikipedia’s
-    [“Peroxidase”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CHEM203_Wikipedia_Peroxidase_12.20.12.pdf)
+    [“Peroxidase”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/CHEM203_Wikipedia_Peroxidase_12.20.12.pdf)
     (PDF)  
       
      Instructions: Please click on the link above to access and read the
